@@ -3,7 +3,6 @@ import numpy as np
 import requests
 import json
 import streamlit as st
-import plotly.express as px
 
 st.title('カクテルサーチ')
 st.write('265種類のカクテル情報を検索できます')
